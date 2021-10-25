@@ -2,7 +2,7 @@
 
 #### Contents
 
-1. Commandar
+1. Commander
 2. Chalk
 
 ### How to start
